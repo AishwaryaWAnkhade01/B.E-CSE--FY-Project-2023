@@ -1,11 +1,12 @@
-🌿 Medicinal Plant Identification System
-📌 Project Overview
+## Medicinal Plant Identification System
+
+Project Overview
 
 The Medicinal Plant Identification System is a deep learning–based web application developed to automatically identify medicinal plants from leaf images and display their medicinal uses. The system aims to reduce human error in plant identification, especially in the Ayurvedic and herbal medicine sectors, where incorrect plant collection can lead to ineffective or unsafe medicines.
 
 The project uses a Convolutional Neural Network (CNN) for image classification and a web-based interface for training, testing, and prediction.
 
-🎯 Objectives
+Objectives
 
 To develop an automated system for identifying medicinal plants using leaf images
 
@@ -66,4 +67,3 @@ Dataset is divided into training and testing sets
 
 Dataset is organized class-wise
 
-⚠️ Note: Large public datasets such as PlantVillage are referenced in literature but not used in the actual implementation.
