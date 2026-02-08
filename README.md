@@ -29,7 +29,7 @@ Bootstrap
 
 ## Backend
 
-PHP
+Python
 
 Database
 
