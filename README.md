@@ -15,8 +15,8 @@ To provide an easy-to-use web interface for users
 
 To evaluate system performance using standard metrics such as accuracy, precision, recall, and F1-score
 
-🧠 Technology Stack
-Frontend
+## Technology Stack
+## Frontend
 
 HTML
 
@@ -26,7 +26,7 @@ JavaScript
 
 Bootstrap
 
-Backend
+## Backend
 
 PHP
 
